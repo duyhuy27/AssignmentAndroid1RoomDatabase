@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_custom">#FAF3E1</color>
+    <color name="color_milk">#F5E7C6</color>
+    <color name="primary">#FF6D1F</color>
+    <color name="black_hole">#222222</color>
+    <color name="white">#FFFFFF</color>
+    <color name="secondary">#C1C1C1</color>
+    <color name="secondary_two">#F3F3F3</color>
+</resources>
